@@ -1,0 +1,86 @@
+==================================================================
+https://keybase.io/jmjordan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jmjordan.com
+  * I am jmjordan (https://keybase.io/jmjordan) on keybase.
+  * I have a public key with fingerprint 8001 AD76 916E C342 B949  AB1C 43D4 4039 208C 0BE6
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012004989f41d6c143bd004f21f9f853a2642912e58f6b22824edc41663096b54c730a",
+      "fingerprint": "8001ad76916ec342b949ab1c43d44039208c0be6",
+      "host": "keybase.io",
+      "key_id": "43d44039208c0be6",
+      "kid": "0101420e211a8b19a1b24ffbe13d72d3efe95072a16a921f4ad3f8be5c0de11779380a",
+      "uid": "f01ac0a8379dc9f319661d6474925919",
+      "username": "jmjordan"
+    },
+    "merkle_root": {
+      "ctime": 1613871246,
+      "hash_meta": "50096298c0c7944a3fa800cc631976f395223812431f537e8d3a8f08c84a65dc",
+      "seqno": 19176619
+    },
+    "revoke": {
+      "sig_ids": [
+        "f8dffeca0df07d35e89bb9c3d9f0462e009e8767cfccd8df749532a56f7835030f"
+      ]
+    },
+    "service": {
+      "hostname": "jmjordan.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1613871310,
+  "expire_in": 157680000,
+  "prev": "a752731a42a92dd937f0ecc5a9a9cda21a5127abe95d469bef321e6f49548dbf",
+  "seqno": 46,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtU2tsVEUY3VYaCoItD1sKSvCCtchS78zc1zRUBBIFFYG2kNBal7l3Zrbbfdyy
+e7vbppaIBLDh1YoIglAMEiSIIohCIUAEEZYE0AUUIUAloEB4VUIVKDjbSIzGXzf3
+m/Od75zzzTT2fMSVnjLm2At40PxHL6YcumS6poFtp+ok06a1UkGd5GedHxagLOJ4
+/D4qFUgygLKsYANzBVDNAgoyqShwCDjmhooI1BSIAWSqwTUTQgMqjFoK0DQkY81U
+FUtHMpHcEveFvCxcFfaFHEFryDIgVNcw0JiFFGhiBRMTWAqiiiIjDGXDkk2micYK
+O5LsEOJMEmH5PlvUxI+nU97/4B/qloECZQYBIIYJMAEmVDg3GUBUhxQxzrAq65AA
+jWBhRiEUccNkqiVTBoCuY2R06q7upONCriUTA+mYWpgjgDVN5KHoCoYqBjgJjLBw
+iASZQFcGK+0wJSGp3i0FWdgfYJ6wbTvJcC3Hl4QADSBDB1DRhEESqfAEmUNEpyqL
+1CAWZiwdKwpBnIioLEsTE3WNI6xCiAzRhwBXkc4MiojBhXlDIZpKLaEjwqaHbDEB
+A11oxEJCmEVtP0tOj/i8IreIVFAmcYPuqeGcWUSmXNYpUpmBTRNbiGIuKxpkQgoz
+dE23uGVRg3LhVUWQqBrXDaTKSOZSeX1yXjjqszrpk6v6TwT5lh0UoqrCtmNbdkCc
+VDhOVaQgGY1TW5WExpjp+ZvEY/pCVFwU0RFl4YjPDgkjAvnv1BCQ3RKrqfKFmceX
+RKi6JlKS5eQcFhWURFehjgBRoFgupRjpXGaWpRJMsEUJBEQFUCemuANU0bDJOIKA
+aVw4VAxq8n9iTC7IIV7BKbILEac6zKT67g2pqIsrJd31ZNZTXd5K2RhtCu0dvX3c
+hicePq601OTLcnXvlvmwci+Q0dE/a8pXldmz5two2l2fUFuW9TnhfnfnrX2F8fGx
+O4vPjIjP2Dh7+pacu2sCG1YfD/U6/eOBw22jGnqf31NSNw/75/YtO1bnLB9S2jpp
+XXZ09INVH7ekHkg7gzbNGvDY1HLnXNw5ee52x4yGxsRJf4Ur0XR11tqDXbfXxSYu
+WlByIdWOZTmv7/vtufWsYtemnh2JrjerY+4lhVNWRl66d2XBoG/GT+j10QL/zePy
+TLat+TA9ouC0Pwphn6vFmLWe2/5sWbe9SzMOnfagGZM/y45tbtu8od1NW+O9i3sc
+vp0yIX3USPuD+NEHI6dvWQJzKpvagxd2F56qr/m6Xr38Jh3X/c9gadry0oJYab9n
+4gfQ9R1nGy07L2faiF2Rrfe/LNk5u7l56abT6ZeGd6maHA+819A4MONe4taQ378v
+npl3P/rh9Qp1jfvgoGXNb/Oi3O8GrCi6NmzVsqGDy52B/v77U/23Gouzf92/9ZO1
+clH+0zUXx6hf9D324itXvG94J61ckTmvH3w1d8eN6iVe3fAlpg4fG8sffiY9V/58
+cbd1JUd/PjFbbZ5b8prnWrFvUvvjTXR1R27DWVdeizK0/khZ5dzakh/eyWx7OZjT
+85fq988nyq/1mDNzY8aNve0NCzsSw7LyfK3fXl40zVuU9nwGs+sK2+5kDpY+3b81
+e9Hgif3615otgYX78Pq+NZUDfhpVNNZ19y8=
+=yRdg
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jmjordan
+
+==================================================================
