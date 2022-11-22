@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2007 on jmjordan</title>
-    <link>jmjordan.github.io/archive/twitter/2007/</link>
+    <link>https://jmjordan.github.io/archive/twitter/2007/</link>
     <description>Recent content in 2007 on jmjordan</description>
     <image>
-      <url>jmjordan.github.io/images/banner.jpeg</url>
-      <link>jmjordan.github.io/images/banner.jpeg</link>
+      <url>https://jmjordan.github.io/images/banner.jpeg</url>
+      <link>https://jmjordan.github.io/images/banner.jpeg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Mar 2007 21:03:45 +0000</lastBuildDate><atom:link href="jmjordan.github.io/archive/twitter/2007/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Mar 2007 21:03:45 +0000</lastBuildDate><atom:link href="https://jmjordan.github.io/archive/twitter/2007/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>jmjordan.github.io/archive/twitter/2007/16683451/</link>
+      <link>https://jmjordan.github.io/archive/twitter/2007/16683451/</link>
       <pubDate>Sat, 31 Mar 2007 21:03:45 +0000</pubDate>
       
-      <guid>jmjordan.github.io/archive/twitter/2007/16683451/</guid>
+      <guid>https://jmjordan.github.io/archive/twitter/2007/16683451/</guid>
       <description>installing a new harddrive.</description>
     </item>
     
     <item>
       <title></title>
-      <link>jmjordan.github.io/archive/twitter/2007/5357121/</link>
+      <link>https://jmjordan.github.io/archive/twitter/2007/5357121/</link>
       <pubDate>Wed, 07 Feb 2007 19:26:48 +0000</pubDate>
       
-      <guid>jmjordan.github.io/archive/twitter/2007/5357121/</guid>
+      <guid>https://jmjordan.github.io/archive/twitter/2007/5357121/</guid>
       <description>playing around with twitter</description>
     </item>
     
     <item>
       <title></title>
-      <link>jmjordan.github.io/archive/twitter/2007/5357013/</link>
+      <link>https://jmjordan.github.io/archive/twitter/2007/5357013/</link>
       <pubDate>Wed, 07 Feb 2007 19:20:19 +0000</pubDate>
       
-      <guid>jmjordan.github.io/archive/twitter/2007/5357013/</guid>
+      <guid>https://jmjordan.github.io/archive/twitter/2007/5357013/</guid>
       <description>I am sitting in Riggs waiting to go to Calculus.</description>
     </item>
     
